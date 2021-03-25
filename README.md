@@ -30,5 +30,5 @@ Nei, du kan starte med et ferdig spillbart "microgame" som du modifiserer. De ha
 plattformer og mer på [Unity nedlastningssiden.](https://store.unity.com/download-nuo) Det finnes også massevis med gratis modeller og teksturer
 på nett, som denne videon viser: [How to Make Beautiful Terrain in Unity 2020 | Beginner Tutorial](https://www.youtube.com/watch?v=ddy12WHqt-M&list=PLKSI6XgWmHYabaF6cxrFz1RZnpiS1HTFA&index=8)
 ### Dette høres interessant ut, hvor starter jeg?
-Du kan laste ned Unity gratis her og du kan følge Unitys offisielle kursmaterial her eller følge en youtube tutorial,
+Du kan [laste ned Unity gratis her](https://store.unity.com/download-nuo) og du kan følge [Unitys offisielle kursmaterial her](https://learn.unity.com/) eller følge en youtube tutorial,
 [jeg syns denne virker veldig bra.](https://www.youtube.com/watch?v=pwZpJzpE2lQ)
